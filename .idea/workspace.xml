@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa6c14e0-4722-42b1-a6a8-42b1d16bf31d" name="Changes" comment="" />
+    <list default="true" id="fa6c14e0-4722-42b1-a6a8-42b1d16bf31d" name="Changes" comment="I see" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,18 +49,18 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/le/EPAM/study/git/newRepository/README.md",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.tabs",
-    "two.files.diff.last.used.file": "C:/le/EPAM/study/git/newRepository/README.md"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/le/EPAM/study/git/newRepository/README.md&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/le/EPAM/study/git/newRepository/README.md&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\le\EPAM\study\git\newRepository" />
@@ -75,6 +75,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664378038481</updated>
     </task>
+    <task id="LOCAL-00001" summary="I see">
+      <created>1664384408523</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664384408523</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,7 +96,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="devOp" />
+                        <option value="origin/gvozdeva" />
                       </list>
                     </value>
                   </entry>
@@ -99,5 +107,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I see" />
+    <option name="LAST_COMMIT_MESSAGE" value="I see" />
   </component>
 </project>
