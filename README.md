@@ -8,6 +8,7 @@ test
 * I would ask you to write the next line //vorsoba
 * in your branch in README.md I can write) //vorsoba
 * writing a line in my branch //vorsoba
-
-// one more try //
-we merge our projects!
+* new line // Ramankova
+* New line// Tarabuka
+* mid line // vorsoba
+* ! we merge our projects !
